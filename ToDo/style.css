@@ -1,0 +1,40 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+div{
+   /* text-align: center; */
+    border:2px solid black;
+    border-radius: 10px;
+    background-color: aquamarine;
+    box-shadow: 10px 10px 30px rgba(0,0,0, 0.4);
+}
+.delete{
+    margin: 3px;
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+    
+}
+
+ .task{
+    background-color: red;
+    color: white;
+    border: 2px solid black;
+   
+  
+} 
+
+ .button{
+    background: black;
+    color: white;
+  
+}
+.checklist{
+    width: 15%;
+   
+    text-align: center;
+    justify-items: end;
+}
